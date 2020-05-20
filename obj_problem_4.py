@@ -1,0 +1,6 @@
+ad=input("Adınız: ")
+soy=input("Soyadınız: ")
+num=input("Telefon Numaranız: ")
+print(ad)
+print(soy)
+print(num)
